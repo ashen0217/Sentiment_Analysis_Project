@@ -1,3 +1,4 @@
+nltk==3.8.1
 anyio==4.10.0
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
